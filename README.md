@@ -34,35 +34,36 @@
 
 ### 👨‍💻 **Professional Summary**
 
-```python
-class MeerMuhammad:
-    def __init__(self):
-        self.name = "Meer Muhammad"
-        self.role = "AI Engineer & Software Developer"
-        self.company = "MTBC CareCloud Inc."
-        self.experience = "3+ Years"
-        self.education = "BS Computer Science"
-        self.university = "Government College University Faisalabad"
-        self.location = "Pakistan 🇵🇰"
-        
-    def expertise(self):
-        return {
-            "AI/ML": ["TensorFlow", "PyTorch", "Scikit-learn"],
-            "Languages": ["Python", "Java", "C++", "JavaScript"],
-            "Databases": ["MySQL", "MongoDB", "PostgreSQL"],
-            "Cloud": ["AWS", "Docker", "Heroku"],
-            "Frameworks": ["Django", "Flask", "FastAPI"],
-            "Specialization": ["Healthcare AI", "Data Science", "MLOps"]
-        }
-        
-    def current_focus(self):
-        return [
-            "Agentic AI Development",
-            "Healthcare Machine Learning",
-            "MLOps & Model Deployment",
-            "Computer Vision Applications"
-        ]
-```
+<div align="center">
+
+**🚀 AI Engineer & Software Developer**  
+*MTBC CareCloud Inc.*
+
+</div>
+
+**📊 Professional Overview:**
+- **Name:** Meer Muhammad
+- **Role:** AI Engineer & Software Developer  
+- **Company:** MTBC CareCloud Inc.
+- **Experience:** 3+ Years in Industry
+- **Education:** BS Computer Science
+- **University:** Government College University Faisalabad
+- **Location:** Pakistan 🇵🇰
+
+**💡 Core Expertise:**
+- **AI/ML:** TensorFlow, PyTorch, Scikit-learn, Keras
+- **Languages:** Python, Java, C++, JavaScript, R, SQL
+- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Cloud:** AWS, Docker, Heroku, Azure
+- **Frameworks:** Django, Flask, FastAPI, React, Node.js
+- **Specialization:** Healthcare AI, Data Science, MLOps
+
+**🎯 Current Focus Areas:**
+- 🤖 Agentic AI Development
+- 🏥 Healthcare Machine Learning Solutions
+- 🔧 MLOps & Model Deployment
+- 👁️ Computer Vision Applications
+- 🧠 Natural Language Processing
 
 </td>
 <td valign="top" width="50%">
