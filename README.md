@@ -81,7 +81,7 @@
 > Government College University Faisalabad
 
 **🏆 Key Achievements**
-> ✅ 3+ Years of Industry Experience  
+> ✅ Fresh graduate  
 > ✅ Healthcare AI Solutions Development  
 > ✅ 15+ ML Models in Production  
 > ✅ Cross-functional Team Leadership  
