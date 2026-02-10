@@ -77,13 +77,12 @@
 > Developing cutting-edge healthcare AI solutions
 
 **🎓 Educational Background**
-> BS Computer Science
-> Government College University Faisalabad
+> BS Computer Engineering
+> National University of Science and Technology (NUST) Islamabad
 
 **🏆 Key Achievements**
 > ✅ Fresh graduate  
 > ✅ Healthcare AI Solutions Development  
-> ✅ 15+ ML Models in Production  
 > ✅ Cross-functional Team Leadership  
 
 **🔬 Research Interests**
@@ -117,8 +116,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
@@ -200,8 +197,7 @@
 ### 💼 **Software Engineer | Previous Roles**
 *Full-Stack Development & System Architecture*
 
-- 🌐 **Full-Stack Web Development** using Django, React, and Node.js
-- 🗄️ **Database Management** with MySQL, PostgreSQL, and MongoDB
+- 🗄️ **Database Management** with MySQL, MongoDB
 - ☁️ **Cloud Infrastructure** deployment on AWS and Heroku
 - 🔧 **DevOps & CI/CD** pipeline implementation
 - 📱 **API Development** and microservices architecture
